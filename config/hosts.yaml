@@ -1,0 +1,5 @@
+# future: hosts/services inventory
+devices:
+  - name: phone
+    role: control
+    tailscale: true
